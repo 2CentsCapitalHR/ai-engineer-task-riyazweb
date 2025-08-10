@@ -3,6 +3,7 @@
 OPEN THIS COLLAB LINK TO ACESS:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jmty9yRENi3zkND6PYwB11zN9NieTWky?usp=sharing)
 ---
+Demo video:
 [![Watch the video](https://img.youtube.com/vi/vsBaMhNOiuA/0.jpg)](https://www.youtube.com/watch?v=vsBaMhNOiuA)
 
 ---
